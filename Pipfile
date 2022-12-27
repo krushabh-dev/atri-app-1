@@ -1,0 +1,13 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+atri = "==0.0.78"
+fastapi = "==0.84.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
